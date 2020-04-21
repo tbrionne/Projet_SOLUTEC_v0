@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+.erreur {
+	color: red;
+}
+
+.icone {
+	width: 30px;
+	height: 30 px;
+}
+
+.barrelangues {
+	text-align: right;
+}
+
+.entete {
+	
+}
+
+footer {
+	text-align: center;
+	color: blue;
+}
